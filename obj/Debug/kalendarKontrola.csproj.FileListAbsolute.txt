@@ -1,0 +1,10 @@
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.csproj.AssemblyReference.cache
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.Form1.resources
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.Properties.Resources.resources
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.csproj.GenerateResource.cache
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\bin\Debug\kalendarKontrola.exe.config
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\bin\Debug\kalendarKontrola.exe
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\bin\Debug\kalendarKontrola.pdb
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.exe
+C:\Users\Gospodin\source\repos\kalendarKontrola\kalendarKontrola\obj\Debug\kalendarKontrola.pdb
